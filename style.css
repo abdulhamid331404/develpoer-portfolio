@@ -55,12 +55,12 @@ border-radius: 10px;
 .sub-title{
     font-size: 30px;
 }
-footer{
-    text-align: center;
-}
 #full-web{
     border-left: 10px solid tomato;
 }
 #baby-web{
     border-left: 10px solid blue;
+}
+footer{
+    text-align: center;
 }
