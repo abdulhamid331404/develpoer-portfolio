@@ -55,10 +55,10 @@ border-radius: 10px;
 .sub-title{
     font-size: 30px;
 }
-#full-web{
+.full-web{
     border-left: 10px solid tomato;
 }
-#baby-web{
+.baby-web{
     border-left: 10px solid blue;
 }
 footer{
